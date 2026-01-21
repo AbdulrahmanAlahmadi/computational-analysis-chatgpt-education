@@ -1,4 +1,4 @@
-# computational-analysis-chatgpt-education
+# Computational Analysis of ChatGPT Use in Academic Contexts
 Computational social science project exploring academic use of ChatGPT using API-based data collection, text preprocessing, and topic modelling techniques.
 # Notes
 This repository focuses on analytical methods and code structure.  
