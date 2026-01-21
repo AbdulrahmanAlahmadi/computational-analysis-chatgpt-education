@@ -3,3 +3,6 @@ Computational social science project exploring academic use of ChatGPT using API
 # Notes
 This repository focuses on analytical methods and code structure.  
 Raw data and API credentials are intentionally excluded.
+## Sample Output
+
+![Topic Distribution](Figures/topic_distribution.png)
